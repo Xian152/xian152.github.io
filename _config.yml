@@ -19,7 +19,7 @@ url                      : https://Xian152.github.io # the base hostname & proto
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png" 
   name             : "Xian Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
