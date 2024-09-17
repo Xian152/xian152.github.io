@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Biology of Xian Zhang"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I received my bacholar degree in Corporate Finance from Shanghai University of International Business and Economics, class of 2017.
 I received my M.A. degree in Economics from Duke University, class of 2019.
