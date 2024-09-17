@@ -11,7 +11,7 @@ title                    : "Xian Zhang"
 title_separator          : "-"
 name                     : &name "Xian Zhang"
 description              : &description "personal description"
-url                      : https://yuhanchan.github.io  # for deployment
+url                      : https://Xian152.github.io  # for deployment
 # url                      : ""                           # for local development
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xian152/Xian152.github.io"
