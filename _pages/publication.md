@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=2vQePQoAAAAJ&hl=zh-TW).
 
 # Peer-reviewed Publication
-+ Dong W*, Zhang X*, Liu S*, Zhang X, Li Z, Gu M, Yang Y, Fang YE, Li H, Qian J, Zhang M, Wang L, Yan LL, Wu J. Effect of the national integrated demonstration area for the prevention and control of noncommunicable diseases programme on behavioural risk factors in China: a synthetic difference-in-differences study. Lancet Reg Health West Pac. 2024 Aug 9;50:101167. doi: 10.1016/j.lanwpc.2024.101167. PMID: 39219626; PMCID: PMC11363990. //
++ Dong W*, Zhang X*, Liu S*, Zhang X, Li Z, Gu M, Yang Y, Fang YE, Li H, Qian J, Zhang M, Wang L, Yan LL, Wu J. Effect of the national integrated demonstration area for the prevention and control of noncommunicable diseases programme on behavioural risk factors in China: a synthetic difference-in-differences study. Lancet Reg Health West Pac. 2024 Aug 9;50:101167. doi: 10.1016/j.lanwpc.2024.101167. PMID: 39219626; PMCID: PMC11363990.  
   [Link](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00161-5/fulltext)
 + Chen X*, Zheng Y*, Wang K, Zhang X, Nakai K, Yan LL#. Resting heart rate and risk of dementia: a Mendelian Randomization Study in the International Genomics of Alzheimer’s Project and UK Biobank. PeerJ.
 + Chen X*, Wang J*, Zhang X, Xiao G, Luo S, Liu L, Kong W, Zhang X, Yan LL, Zhang S. Residential proximity to major roadways and hearing impairment in Chinese older adults: a population-based study. BMC Public Health. 2023 Dec 8;23(1):2462. doi: 10.1186/s12889-023-17433-6. PMID: 38066478; PMCID: PMC10709848.
