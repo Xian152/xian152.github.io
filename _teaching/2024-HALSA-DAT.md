@@ -36,6 +36,9 @@ This lecture overviews the model selection, sensitivity Analyses/robustness chec
  analyses .  
 [Slices](https://github.com/Xian152/xian152.github.io/blob/master/_teaching/Exploratory%20Data%20Analysis.pptx)
 
+## Extra：The Application of Zotero in Scientific Research: A Case Study in the Field of Public Health
+This episode provides a brief introduction on how to use Zotero for literature search, literature organization, literature reading, literature review, and citation management.
+[Youtube](https://www.youtube.com/embed/watch?v=MozUVVRemBo&list=PLWd2WHxexdTsEfptlmAl-qIeGLjEoKnNL) | [Bilibili](https://www.bilibili.com/video/BV1cV4QegEX6/?spm_id_from=333.999.0.0)
 
 
 
