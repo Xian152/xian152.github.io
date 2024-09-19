@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/906af081-97d7-4b13-ba46-b5063dbe2b99)---
 title: "Data Analyses Training"
 collection: teaching
 type: "Workshop Training"
