@@ -4,13 +4,13 @@ collection: teaching
 type: "Workshop Training"
 permalink: /teaching/2024-HALSA-DAT
 venue: "Duke Kunshan University, Global Health Research Center"
-date: 2024-05-17
+date: 2024-04-19
 location: "Jiangsu, China"
 ---
 
 This is a data analyses training series for HALSA member. All recordings has been uploaded to [Youtube](https://www.youtube.com/watch?v=MozUVVRemBo&list=PLWd2WHxexdTsEfptlmAl-qIeGLjEoKnNL) and [Bilibili](https://space.bilibili.com/12863665/channel/seriesdetail?sid=4379693&ctype=0)
 
-## Lecture 1：Data Analysis Training with CLHLS:Introduction to Second-hand Data Analyses
+## Lecture 1 Data Analysis Training with CLHLS: Introduction to Second-hand Data Analyses
 This episode explains the scope and the agenda of the data analyses training series, and provides a brief introduction to the general progess of second-hand data analyses with an example.  
 [Slices](https://github.com/Xian152/xian152.github.io/blob/master/_teaching/DAT%20with%20CLHLS-S1-Introduction%20to%20Second-hand%20Data%20Analyses%20.pptx) | [Sample Paper](https://www.sciencedirect.com/science/article/pii/S2468266718301440)
 
