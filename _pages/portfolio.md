@@ -17,10 +17,6 @@ This is an intercative map that visualized the nutrition activities conducted by
 [Full Screen](https://dukeuniv.maps.arcgis.com/apps/webappviewer/index.html?id=6bc134097d734cffa83eb8983d0ff25c)
 
 
-% {% include base_path %}
-
 
 % {% for post in site.portfolio %}
 %  {% include archive-single.html %}
-% {% endfor %}
-
