@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my bacholar degree in Corporate Finance from Shanghai University of International Business and Economics, class of 2017.
-I received my M.A. degree in Economics from Duke University, class of 2019.
+I am Xian Zhang. I earned my Bachelor’s degree in Corporate Finance from the Shanghai University of International Business and Economics in 2017 and my Master's degree in Economics from Duke University in 2019.              
 
-I’m currently a Research Fellow working at the Global Health Research Center of the Duke Kunshan University, supervised by Prof. Lijing L. Yan.
+I am currently a Research Fellow supported by the PKU Young Scholar Fellowship in Global Health and Development. Previously, I worked as a consultant in Universal Health Coverage at the World Bank Group (2019–2021) under the supervision of Economist Sven Neelsen. I then worked as a Research Fellow at the Global Health Research Center of Duke Kunshan University (2021–2024) under the supervision of Prof. Lijing L. Yan.              
 
-My research interests are Health Economics and Healthy Aging.
-
-
+My research interests includes Health Economics, Healthy Aging, and Health policy and management.                                     
