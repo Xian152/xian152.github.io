@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/Xian152/xian152.github.io/blob/master/files/XianZhangCVSlong.docx)            
+[CV](https://github.com/Xian152/xian152.github.io/blob/master/files/XianZhangCVSlong.pdf)            
