@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Jiangsu, China"
+locale                   : "NY, USA"
 title                    : "Xian Zhang"
 title_separator          : "-"
 name                     : &name "Xian Zhang"
@@ -83,25 +83,25 @@ analytics:
 author:
   name             : "Xian Zhang"
   avatar           : "profile.png"
-  bio              : Research Fellow @ DKU GHRC.
-  location         : Jiangsu, China
-  city             : Kunshan, Jiangsu
+  bio              : Ph.D. Student @ URMC.
+  location         : NY, USA
+  city             : Rochester
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=2vQePQoAAAAJ&hl=zh-TW
-  email            : "xz152@duke.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "Xian_Zhang@URMC.Rochester.edu"
+  researchgate     : "https://www.researchgate.net/profile/Xian_Zhang83?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100010215931994"
   foursquare       :
   github           : "Xian152"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/xian.zhang.si33/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xian-zhang-5b0702161/"
